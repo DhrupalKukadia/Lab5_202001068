@@ -1,7 +1,7 @@
 # Static Analysis of GitHub Repository Visual-ChatGPT
-Link: https://github.com/microsoft/visual-chatgpt
+Link to the Repository: https://github.com/microsoft/visual-chatgpt
 
-Tool used: Pylint
+Tool used for analysis: Pylint
 
 ## Tool output:
 
